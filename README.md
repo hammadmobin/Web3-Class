@@ -1,6 +1,6 @@
 # Web3-Class
 
-> *** It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong. - Richard Feynman ***
+> ***It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong. - Richard Feynman***
 
 
 ## Resources
