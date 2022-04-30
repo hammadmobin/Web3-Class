@@ -15,6 +15,10 @@ https://developerdao.notion.site/Getting-Started-with-Developer-DAO-2bddd332c51a
 https://speedrunethereum.com/ <br />
 https://crypto.stanford.edu/~dabo/ (Theory) <br />
 https://web3.career/ <br />
+https://fweb3.xyz/ <br />
+https://www.pointer.gg/tutorials <br />
+https://app.cadena.dev/dashboard <br />
+https://ethernaut.openzeppelin.com/ <br />
 
 ### Lets Started 
  ![This is an image](https://m.media-amazon.com/images/M/MV5BZjE0N2E3MDAtNmU0Zi00NjI1LWE1YjQtYWMwMGMxZWI4ZWQ3XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg)
